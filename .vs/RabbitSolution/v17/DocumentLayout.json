@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thais\\Desktop\\Mensageria\\RabbitSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584D8C-680D-4EA0-B073-4419EC632327}|WebApplicationConsumer\\WebApplicationConsumer.csproj|c:\\users\\thais\\desktop\\mensageria\\rabbitsolution\\webapplicationconsumer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E584D8C-680D-4EA0-B073-4419EC632327}|WebApplicationConsumer\\WebApplicationConsumer.csproj|solutionrelative:webapplicationconsumer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100124F4-F604-42D0-B5F8-E6FEFA6EF7D7}|WebApplicationPublish\\WebApplicationPublish.csproj|c:\\users\\thais\\desktop\\mensageria\\rabbitsolution\\webapplicationpublish\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{100124F4-F604-42D0-B5F8-E6FEFA6EF7D7}|WebApplicationPublish\\WebApplicationPublish.csproj|solutionrelative:webapplicationpublish\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584D8C-680D-4EA0-B073-4419EC632327}|WebApplicationConsumer\\WebApplicationConsumer.csproj|c:\\users\\thais\\desktop\\mensageria\\rabbitsolution\\webapplicationconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584D8C-680D-4EA0-B073-4419EC632327}|WebApplicationConsumer\\WebApplicationConsumer.csproj|solutionrelative:webapplicationconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\Desktop\\Mensageria\\RabbitSolution\\WebApplicationConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationConsumer\\Program.cs",
+              "ToolTip": "C:\\Users\\thais\\Desktop\\Mensageria\\RabbitSolution\\WebApplicationConsumer\\Program.cs",
+              "RelativeToolTip": "WebApplicationConsumer\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:03:08.401Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\thais\\Desktop\\Mensageria\\RabbitSolution\\WebApplicationConsumer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplicationConsumer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\thais\\Desktop\\Mensageria\\RabbitSolution\\WebApplicationConsumer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplicationConsumer\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T00:06:36.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thais\\Desktop\\Mensageria\\RabbitSolution\\WebApplicationPublish\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationPublish\\appsettings.json",
+              "ToolTip": "C:\\Users\\thais\\Desktop\\Mensageria\\RabbitSolution\\WebApplicationPublish\\appsettings.json",
+              "RelativeToolTip": "WebApplicationPublish\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T00:06:25.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 903,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
